@@ -6,7 +6,7 @@ test.beforeEach(async ({ page, user }) => {
 });
 
 test(
-  'Creat an article with required fields',
+  'Create an article with required fields',
   async ({
     homePage,
     createArticlePage,
